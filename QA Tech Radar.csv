@@ -37,8 +37,8 @@ Sikuli,3 - Assess,Languages & Frameworks,No,
 Kotlin,3 - Assess,Languages & Frameworks,No,
 "Logging and Monitoring (Splunk, Grafana,CloudWatch, etc)",4 - Hold,Techniques,No,
 Git,3 - Assess,Tools,No,
-"Pipeline (GoCD, Jenkins)",3 - Assess,Tools,,
+"Pipeline (GoCD, Jenkins)",3 - Assess,Tools,No,
 Linux,3 - Assess,Platforms,No,
-"Containerisation (Docker, Kubernetes, Flyway)",3 - Assess,,,
+"Containerisation (Docker, Kubernetes, Flyway)",3 - Assess,Platforms,No,
 Tensor Flow,3 - Assess,Languages & Frameworks,Yes,Future plan for AI
 Python,3 - Assess,Languages & Frameworks,Yes,Future plan for AI
