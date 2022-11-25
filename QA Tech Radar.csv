@@ -43,5 +43,5 @@ Linux,3 - Assess,Platforms,No,
 Tensor Flow,3 - Assess,Languages & Frameworks,Yes,Future plan for AI
 Python,3 - Assess,Languages & Frameworks,Yes,Future plan for AI
 Apache Spark (PySpark),3 - Assess,Platforms,Yes,Future plan for Big Data
-Remote Code Development (VS Studio, Fleet),3 - AssessPlatforms,Yes,Collaboration
+"Remote Code Development (VS Studio, Fleet)",3 - AssessPlatforms,Yes,Collaboration
 Azure Test Plans,3 - Assess,Tools,Yes,
